@@ -1,0 +1,332 @@
+{
+	"children": [
+		{
+			"type": "layer",
+			"visible": true,
+			"opacity": 1,
+			"blendingMode": "normal",
+			"name": "logo",
+			"left": 1209,
+			"right": 1478,
+			"top": 804,
+			"bottom": 1022,
+			"height": 218,
+			"width": 269,
+			"mask": {},
+			"image": {}
+		},
+		{
+			"type": "group",
+			"visible": true,
+			"opacity": 1,
+			"blendingMode": "normal",
+			"name": "字体",
+			"left": 1487,
+			"right": 1832,
+			"top": 950,
+			"bottom": 1819,
+			"height": 869,
+			"width": 345,
+			"children": [
+				{
+					"type": "layer",
+					"visible": true,
+					"opacity": 1,
+					"blendingMode": "normal",
+					"name": "新 年 福  礼",
+					"left": 1487,
+					"right": 1832,
+					"top": 950,
+					"bottom": 1819,
+					"height": 869,
+					"width": 345,
+					"mask": {},
+					"text": {
+						"value": "新\r年\r福\r 礼",
+						"font": {
+							"lengthArray": [
+								6,
+								1,
+								1
+							],
+							"styles": [
+								"normal",
+								"normal",
+								"normal"
+							],
+							"weights": [
+								"normal",
+								"normal",
+								"normal"
+							],
+							"names": [
+								"zihunxinquhei",
+								"AdobeInvisFont",
+								"SimSun"
+							],
+							"sizes": [
+								44.59235,
+								44.59235,
+								44.59235
+							],
+							"colors": [
+								[
+									255,
+									255,
+									255,
+									255
+								],
+								[
+									255,
+									255,
+									255,
+									255
+								],
+								[
+									255,
+									255,
+									255,
+									255
+								]
+							],
+							"alignment": [
+								"center",
+								"center",
+								"center",
+								"center"
+							],
+							"textDecoration": [
+								"none",
+								"none",
+								"none"
+							],
+							"leading": [
+								72.91665,
+								72.91665,
+								72.91665
+							]
+						},
+						"left": 0,
+						"top": 0,
+						"right": 0,
+						"bottom": 0,
+						"transform": {
+							"xx": 4.021946564585924,
+							"xy": -1.1724863748522496,
+							"yx": 0.7346899577210079,
+							"yy": 3.270080667876963,
+							"tx": 1581.0015183541257,
+							"ty": 1075.9765715501171
+						}
+					},
+					"image": {}
+				}
+			]
+		},
+		{
+			"type": "group",
+			"visible": true,
+			"opacity": 1,
+			"blendingMode": "normal",
+			"name": "装饰",
+			"left": 1303,
+			"right": 2673,
+			"top": 902,
+			"bottom": 2145,
+			"height": 1243,
+			"width": 1370,
+			"children": [
+				{
+					"type": "layer",
+					"visible": true,
+					"opacity": 1,
+					"blendingMode": "normal",
+					"name": "装饰-元素",
+					"left": 1419,
+					"right": 1882,
+					"top": 902,
+					"bottom": 1870,
+					"height": 968,
+					"width": 463,
+					"mask": {},
+					"image": {}
+				},
+				{
+					"type": "layer",
+					"visible": true,
+					"opacity": 1,
+					"blendingMode": "normal",
+					"name": "装饰-边框",
+					"left": 1303,
+					"right": 2673,
+					"top": 1229,
+					"bottom": 2145,
+					"height": 916,
+					"width": 1370,
+					"mask": {
+						"top": 444,
+						"left": 1150,
+						"bottom": 2064,
+						"right": 2656,
+						"width": 1506,
+						"height": 1620,
+						"defaultColor": 0,
+						"relative": false,
+						"disabled": false,
+						"invert": false
+					},
+					"image": {}
+				}
+			]
+		},
+		{
+			"type": "group",
+			"visible": true,
+			"opacity": 1,
+			"blendingMode": "normal",
+			"name": "插画",
+			"left": 854,
+			"right": 2597,
+			"top": 333,
+			"bottom": 2063,
+			"height": 1730,
+			"width": 1743,
+			"children": [
+				{
+					"type": "layer",
+					"visible": true,
+					"opacity": 1,
+					"blendingMode": "multiply",
+					"name": "插画-左",
+					"left": 854,
+					"right": 1361,
+					"top": 683,
+					"bottom": 2063,
+					"height": 1380,
+					"width": 507,
+					"mask": {
+						"top": 807,
+						"left": 915,
+						"bottom": 2046,
+						"right": 1350,
+						"width": 435,
+						"height": 1239,
+						"defaultColor": 0,
+						"relative": false,
+						"disabled": false,
+						"invert": false
+					},
+					"image": {}
+				},
+				{
+					"type": "layer",
+					"visible": true,
+					"opacity": 1,
+					"blendingMode": "multiply",
+					"name": "插画-顶",
+					"left": 927,
+					"right": 2503,
+					"top": 333,
+					"bottom": 899,
+					"height": 566,
+					"width": 1576,
+					"mask": {
+						"top": 333,
+						"left": 927,
+						"bottom": 974,
+						"right": 2503,
+						"width": 1576,
+						"height": 641,
+						"defaultColor": 0,
+						"relative": false,
+						"disabled": false,
+						"invert": false
+					},
+					"image": {}
+				},
+				{
+					"type": "layer",
+					"visible": true,
+					"opacity": 1,
+					"blendingMode": "normal",
+					"name": "插画-正面",
+					"left": 1307,
+					"right": 2597,
+					"top": 602,
+					"bottom": 1773,
+					"height": 1171,
+					"width": 1290,
+					"mask": {
+						"top": 444,
+						"left": 1150,
+						"bottom": 2064,
+						"right": 2656,
+						"width": 1506,
+						"height": 1620,
+						"defaultColor": 0,
+						"relative": false,
+						"disabled": false,
+						"invert": false
+					},
+					"image": {}
+				}
+			]
+		},
+		{
+			"type": "layer",
+			"visible": false,
+			"opacity": 1,
+			"blendingMode": "normal",
+			"name": "颜色-红色",
+			"left": 0,
+			"right": 3538,
+			"top": 0,
+			"bottom": 2258,
+			"height": 2258,
+			"width": 3538,
+			"mask": {},
+			"image": {}
+		},
+		{
+			"type": "layer",
+			"visible": true,
+			"opacity": 1,
+			"blendingMode": "normal",
+			"name": "颜色-绿色",
+			"left": 0,
+			"right": 3538,
+			"top": 0,
+			"bottom": 2258,
+			"height": 2258,
+			"width": 3538,
+			"mask": {},
+			"image": {}
+		}
+	],
+	"document": {
+		"width": 3538,
+		"height": 2258,
+		"resources": {
+			"layerComps": [],
+			"resolutionInfo": {
+				"h_res": 300,
+				"h_res_unit": 1,
+				"width_unit": 2,
+				"v_res": 300,
+				"v_res_unit": 1,
+				"height_unit": 2
+			},
+			"guides": [
+				{
+					"location": "29495882.4",
+					"direction": "horizontal"
+				},
+				{
+					"location": "35651584.0",
+					"direction": "vertical"
+				}
+			],
+			"slices": []
+		}
+	}
+}
